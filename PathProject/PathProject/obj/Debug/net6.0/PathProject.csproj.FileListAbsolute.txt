@@ -1,0 +1,14 @@
+C:\projetos\PathProject\PathProject\bin\Debug\net6.0\PathProject.exe
+C:\projetos\PathProject\PathProject\bin\Debug\net6.0\PathProject.deps.json
+C:\projetos\PathProject\PathProject\bin\Debug\net6.0\PathProject.runtimeconfig.json
+C:\projetos\PathProject\PathProject\bin\Debug\net6.0\PathProject.dll
+C:\projetos\PathProject\PathProject\bin\Debug\net6.0\PathProject.pdb
+C:\projetos\PathProject\PathProject\obj\Debug\net6.0\PathProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\PathProject\PathProject\obj\Debug\net6.0\PathProject.AssemblyInfoInputs.cache
+C:\projetos\PathProject\PathProject\obj\Debug\net6.0\PathProject.AssemblyInfo.cs
+C:\projetos\PathProject\PathProject\obj\Debug\net6.0\PathProject.csproj.CoreCompileInputs.cache
+C:\projetos\PathProject\PathProject\obj\Debug\net6.0\PathProject.dll
+C:\projetos\PathProject\PathProject\obj\Debug\net6.0\refint\PathProject.dll
+C:\projetos\PathProject\PathProject\obj\Debug\net6.0\PathProject.pdb
+C:\projetos\PathProject\PathProject\obj\Debug\net6.0\PathProject.genruntimeconfig.cache
+C:\projetos\PathProject\PathProject\obj\Debug\net6.0\ref\PathProject.dll

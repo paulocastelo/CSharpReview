@@ -1,0 +1,14 @@
+C:\projetos\SetExercises\SetExercises\SetExercises\bin\Debug\net6.0\SetExercises.exe
+C:\projetos\SetExercises\SetExercises\SetExercises\bin\Debug\net6.0\SetExercises.deps.json
+C:\projetos\SetExercises\SetExercises\SetExercises\bin\Debug\net6.0\SetExercises.runtimeconfig.json
+C:\projetos\SetExercises\SetExercises\SetExercises\bin\Debug\net6.0\SetExercises.dll
+C:\projetos\SetExercises\SetExercises\SetExercises\bin\Debug\net6.0\SetExercises.pdb
+C:\projetos\SetExercises\SetExercises\SetExercises\obj\Debug\net6.0\SetExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\SetExercises\SetExercises\SetExercises\obj\Debug\net6.0\SetExercises.AssemblyInfoInputs.cache
+C:\projetos\SetExercises\SetExercises\SetExercises\obj\Debug\net6.0\SetExercises.AssemblyInfo.cs
+C:\projetos\SetExercises\SetExercises\SetExercises\obj\Debug\net6.0\SetExercises.csproj.CoreCompileInputs.cache
+C:\projetos\SetExercises\SetExercises\SetExercises\obj\Debug\net6.0\SetExercises.dll
+C:\projetos\SetExercises\SetExercises\SetExercises\obj\Debug\net6.0\refint\SetExercises.dll
+C:\projetos\SetExercises\SetExercises\SetExercises\obj\Debug\net6.0\SetExercises.pdb
+C:\projetos\SetExercises\SetExercises\SetExercises\obj\Debug\net6.0\SetExercises.genruntimeconfig.cache
+C:\projetos\SetExercises\SetExercises\SetExercises\obj\Debug\net6.0\ref\SetExercises.dll

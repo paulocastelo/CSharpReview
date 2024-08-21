@@ -1,0 +1,14 @@
+C:\projetos\ComparisonT\ComparisonT\bin\Debug\net6.0\ComparisonT.exe
+C:\projetos\ComparisonT\ComparisonT\bin\Debug\net6.0\ComparisonT.deps.json
+C:\projetos\ComparisonT\ComparisonT\bin\Debug\net6.0\ComparisonT.runtimeconfig.json
+C:\projetos\ComparisonT\ComparisonT\bin\Debug\net6.0\ComparisonT.dll
+C:\projetos\ComparisonT\ComparisonT\bin\Debug\net6.0\ComparisonT.pdb
+C:\projetos\ComparisonT\ComparisonT\obj\Debug\net6.0\ComparisonT.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ComparisonT\ComparisonT\obj\Debug\net6.0\ComparisonT.AssemblyInfoInputs.cache
+C:\projetos\ComparisonT\ComparisonT\obj\Debug\net6.0\ComparisonT.AssemblyInfo.cs
+C:\projetos\ComparisonT\ComparisonT\obj\Debug\net6.0\ComparisonT.csproj.CoreCompileInputs.cache
+C:\projetos\ComparisonT\ComparisonT\obj\Debug\net6.0\ComparisonT.dll
+C:\projetos\ComparisonT\ComparisonT\obj\Debug\net6.0\refint\ComparisonT.dll
+C:\projetos\ComparisonT\ComparisonT\obj\Debug\net6.0\ComparisonT.pdb
+C:\projetos\ComparisonT\ComparisonT\obj\Debug\net6.0\ComparisonT.genruntimeconfig.cache
+C:\projetos\ComparisonT\ComparisonT\obj\Debug\net6.0\ref\ComparisonT.dll

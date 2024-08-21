@@ -1,0 +1,14 @@
+C:\projetos\GenericsProject\GenericsRestriction\GenericsRestriction\bin\Debug\net6.0\GenericsRestriction.exe
+C:\projetos\GenericsProject\GenericsRestriction\GenericsRestriction\bin\Debug\net6.0\GenericsRestriction.deps.json
+C:\projetos\GenericsProject\GenericsRestriction\GenericsRestriction\bin\Debug\net6.0\GenericsRestriction.runtimeconfig.json
+C:\projetos\GenericsProject\GenericsRestriction\GenericsRestriction\bin\Debug\net6.0\GenericsRestriction.dll
+C:\projetos\GenericsProject\GenericsRestriction\GenericsRestriction\bin\Debug\net6.0\GenericsRestriction.pdb
+C:\projetos\GenericsProject\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\GenericsRestriction.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\GenericsProject\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\GenericsRestriction.AssemblyInfoInputs.cache
+C:\projetos\GenericsProject\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\GenericsRestriction.AssemblyInfo.cs
+C:\projetos\GenericsProject\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\GenericsRestriction.csproj.CoreCompileInputs.cache
+C:\projetos\GenericsProject\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\GenericsRestriction.dll
+C:\projetos\GenericsProject\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\refint\GenericsRestriction.dll
+C:\projetos\GenericsProject\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\GenericsRestriction.pdb
+C:\projetos\GenericsProject\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\GenericsRestriction.genruntimeconfig.cache
+C:\projetos\GenericsProject\GenericsRestriction\GenericsRestriction\obj\Debug\net6.0\ref\GenericsRestriction.dll

@@ -1,0 +1,14 @@
+C:\projetos\CarRental\CarRental\CarRental\bin\Debug\net6.0\Course.exe
+C:\projetos\CarRental\CarRental\CarRental\bin\Debug\net6.0\Course.deps.json
+C:\projetos\CarRental\CarRental\CarRental\bin\Debug\net6.0\Course.runtimeconfig.json
+C:\projetos\CarRental\CarRental\CarRental\bin\Debug\net6.0\Course.dll
+C:\projetos\CarRental\CarRental\CarRental\bin\Debug\net6.0\Course.pdb
+C:\projetos\CarRental\CarRental\CarRental\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\CarRental\CarRental\CarRental\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+C:\projetos\CarRental\CarRental\CarRental\obj\Debug\net6.0\Course.AssemblyInfo.cs
+C:\projetos\CarRental\CarRental\CarRental\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+C:\projetos\CarRental\CarRental\CarRental\obj\Debug\net6.0\Course.dll
+C:\projetos\CarRental\CarRental\CarRental\obj\Debug\net6.0\refint\Course.dll
+C:\projetos\CarRental\CarRental\CarRental\obj\Debug\net6.0\Course.pdb
+C:\projetos\CarRental\CarRental\CarRental\obj\Debug\net6.0\Course.genruntimeconfig.cache
+C:\projetos\CarRental\CarRental\CarRental\obj\Debug\net6.0\ref\Course.dll

@@ -1,0 +1,14 @@
+C:\projetos\DiamondIssue\DiamondIssue\DiamondIssue\bin\Debug\net6.0\DiamondIssue.exe
+C:\projetos\DiamondIssue\DiamondIssue\DiamondIssue\bin\Debug\net6.0\DiamondIssue.deps.json
+C:\projetos\DiamondIssue\DiamondIssue\DiamondIssue\bin\Debug\net6.0\DiamondIssue.runtimeconfig.json
+C:\projetos\DiamondIssue\DiamondIssue\DiamondIssue\bin\Debug\net6.0\DiamondIssue.dll
+C:\projetos\DiamondIssue\DiamondIssue\DiamondIssue\bin\Debug\net6.0\DiamondIssue.pdb
+C:\projetos\DiamondIssue\DiamondIssue\DiamondIssue\obj\Debug\net6.0\DiamondIssue.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\DiamondIssue\DiamondIssue\DiamondIssue\obj\Debug\net6.0\DiamondIssue.AssemblyInfoInputs.cache
+C:\projetos\DiamondIssue\DiamondIssue\DiamondIssue\obj\Debug\net6.0\DiamondIssue.AssemblyInfo.cs
+C:\projetos\DiamondIssue\DiamondIssue\DiamondIssue\obj\Debug\net6.0\DiamondIssue.csproj.CoreCompileInputs.cache
+C:\projetos\DiamondIssue\DiamondIssue\DiamondIssue\obj\Debug\net6.0\DiamondIssue.dll
+C:\projetos\DiamondIssue\DiamondIssue\DiamondIssue\obj\Debug\net6.0\refint\DiamondIssue.dll
+C:\projetos\DiamondIssue\DiamondIssue\DiamondIssue\obj\Debug\net6.0\DiamondIssue.pdb
+C:\projetos\DiamondIssue\DiamondIssue\DiamondIssue\obj\Debug\net6.0\DiamondIssue.genruntimeconfig.cache
+C:\projetos\DiamondIssue\DiamondIssue\DiamondIssue\obj\Debug\net6.0\ref\DiamondIssue.dll

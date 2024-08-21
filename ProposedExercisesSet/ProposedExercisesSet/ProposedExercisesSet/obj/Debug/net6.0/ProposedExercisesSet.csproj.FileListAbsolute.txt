@@ -1,0 +1,14 @@
+C:\projetos\ProposedExercisesSet\ProposedExercisesSet\ProposedExercisesSet\bin\Debug\net6.0\ProposedExercisesSet.exe
+C:\projetos\ProposedExercisesSet\ProposedExercisesSet\ProposedExercisesSet\bin\Debug\net6.0\ProposedExercisesSet.deps.json
+C:\projetos\ProposedExercisesSet\ProposedExercisesSet\ProposedExercisesSet\bin\Debug\net6.0\ProposedExercisesSet.runtimeconfig.json
+C:\projetos\ProposedExercisesSet\ProposedExercisesSet\ProposedExercisesSet\bin\Debug\net6.0\ProposedExercisesSet.dll
+C:\projetos\ProposedExercisesSet\ProposedExercisesSet\ProposedExercisesSet\bin\Debug\net6.0\ProposedExercisesSet.pdb
+C:\projetos\ProposedExercisesSet\ProposedExercisesSet\ProposedExercisesSet\obj\Debug\net6.0\ProposedExercisesSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ProposedExercisesSet\ProposedExercisesSet\ProposedExercisesSet\obj\Debug\net6.0\ProposedExercisesSet.AssemblyInfoInputs.cache
+C:\projetos\ProposedExercisesSet\ProposedExercisesSet\ProposedExercisesSet\obj\Debug\net6.0\ProposedExercisesSet.AssemblyInfo.cs
+C:\projetos\ProposedExercisesSet\ProposedExercisesSet\ProposedExercisesSet\obj\Debug\net6.0\ProposedExercisesSet.csproj.CoreCompileInputs.cache
+C:\projetos\ProposedExercisesSet\ProposedExercisesSet\ProposedExercisesSet\obj\Debug\net6.0\ProposedExercisesSet.dll
+C:\projetos\ProposedExercisesSet\ProposedExercisesSet\ProposedExercisesSet\obj\Debug\net6.0\refint\ProposedExercisesSet.dll
+C:\projetos\ProposedExercisesSet\ProposedExercisesSet\ProposedExercisesSet\obj\Debug\net6.0\ProposedExercisesSet.pdb
+C:\projetos\ProposedExercisesSet\ProposedExercisesSet\ProposedExercisesSet\obj\Debug\net6.0\ProposedExercisesSet.genruntimeconfig.cache
+C:\projetos\ProposedExercisesSet\ProposedExercisesSet\ProposedExercisesSet\obj\Debug\net6.0\ref\ProposedExercisesSet.dll

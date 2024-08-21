@@ -1,0 +1,14 @@
+C:\projetos\InterfaceIComparable\InterfaceIComparable\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.exe
+C:\projetos\InterfaceIComparable\InterfaceIComparable\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.deps.json
+C:\projetos\InterfaceIComparable\InterfaceIComparable\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.runtimeconfig.json
+C:\projetos\InterfaceIComparable\InterfaceIComparable\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.dll
+C:\projetos\InterfaceIComparable\InterfaceIComparable\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.pdb
+C:\projetos\InterfaceIComparable\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\InterfaceIComparable\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.AssemblyInfoInputs.cache
+C:\projetos\InterfaceIComparable\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.AssemblyInfo.cs
+C:\projetos\InterfaceIComparable\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.csproj.CoreCompileInputs.cache
+C:\projetos\InterfaceIComparable\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.dll
+C:\projetos\InterfaceIComparable\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\refint\InterfaceIComparable.dll
+C:\projetos\InterfaceIComparable\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.pdb
+C:\projetos\InterfaceIComparable\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.genruntimeconfig.cache
+C:\projetos\InterfaceIComparable\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\ref\InterfaceIComparable.dll

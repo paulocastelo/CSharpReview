@@ -1,0 +1,14 @@
+C:\projetos\StreamFile\StreamFile\obj\Debug\net6.0\StreamFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\StreamFile\StreamFile\obj\Debug\net6.0\StreamFile.AssemblyInfoInputs.cache
+C:\projetos\StreamFile\StreamFile\obj\Debug\net6.0\StreamFile.AssemblyInfo.cs
+C:\projetos\StreamFile\StreamFile\obj\Debug\net6.0\StreamFile.csproj.CoreCompileInputs.cache
+C:\projetos\StreamFile\StreamFile\bin\Debug\net6.0\StreamFile.exe
+C:\projetos\StreamFile\StreamFile\bin\Debug\net6.0\StreamFile.deps.json
+C:\projetos\StreamFile\StreamFile\bin\Debug\net6.0\StreamFile.runtimeconfig.json
+C:\projetos\StreamFile\StreamFile\bin\Debug\net6.0\StreamFile.dll
+C:\projetos\StreamFile\StreamFile\bin\Debug\net6.0\StreamFile.pdb
+C:\projetos\StreamFile\StreamFile\obj\Debug\net6.0\StreamFile.dll
+C:\projetos\StreamFile\StreamFile\obj\Debug\net6.0\refint\StreamFile.dll
+C:\projetos\StreamFile\StreamFile\obj\Debug\net6.0\StreamFile.pdb
+C:\projetos\StreamFile\StreamFile\obj\Debug\net6.0\StreamFile.genruntimeconfig.cache
+C:\projetos\StreamFile\StreamFile\obj\Debug\net6.0\ref\StreamFile.dll

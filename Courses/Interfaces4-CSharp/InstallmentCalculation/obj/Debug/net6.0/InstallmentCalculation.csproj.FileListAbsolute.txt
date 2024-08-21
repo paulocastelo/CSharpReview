@@ -1,0 +1,14 @@
+C:\projetos\Courses\Interfaces4-CSharp\InstallmentCalculation\bin\Debug\net6.0\InstallmentCalculation.exe
+C:\projetos\Courses\Interfaces4-CSharp\InstallmentCalculation\bin\Debug\net6.0\InstallmentCalculation.deps.json
+C:\projetos\Courses\Interfaces4-CSharp\InstallmentCalculation\bin\Debug\net6.0\InstallmentCalculation.runtimeconfig.json
+C:\projetos\Courses\Interfaces4-CSharp\InstallmentCalculation\bin\Debug\net6.0\InstallmentCalculation.dll
+C:\projetos\Courses\Interfaces4-CSharp\InstallmentCalculation\bin\Debug\net6.0\InstallmentCalculation.pdb
+C:\projetos\Courses\Interfaces4-CSharp\InstallmentCalculation\obj\Debug\net6.0\InstallmentCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Courses\Interfaces4-CSharp\InstallmentCalculation\obj\Debug\net6.0\InstallmentCalculation.AssemblyInfoInputs.cache
+C:\projetos\Courses\Interfaces4-CSharp\InstallmentCalculation\obj\Debug\net6.0\InstallmentCalculation.AssemblyInfo.cs
+C:\projetos\Courses\Interfaces4-CSharp\InstallmentCalculation\obj\Debug\net6.0\InstallmentCalculation.csproj.CoreCompileInputs.cache
+C:\projetos\Courses\Interfaces4-CSharp\InstallmentCalculation\obj\Debug\net6.0\InstallmentCalculation.dll
+C:\projetos\Courses\Interfaces4-CSharp\InstallmentCalculation\obj\Debug\net6.0\refint\InstallmentCalculation.dll
+C:\projetos\Courses\Interfaces4-CSharp\InstallmentCalculation\obj\Debug\net6.0\InstallmentCalculation.pdb
+C:\projetos\Courses\Interfaces4-CSharp\InstallmentCalculation\obj\Debug\net6.0\InstallmentCalculation.genruntimeconfig.cache
+C:\projetos\Courses\Interfaces4-CSharp\InstallmentCalculation\obj\Debug\net6.0\ref\InstallmentCalculation.dll

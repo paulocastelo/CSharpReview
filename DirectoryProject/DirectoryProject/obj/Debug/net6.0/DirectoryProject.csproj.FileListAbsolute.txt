@@ -1,0 +1,14 @@
+C:\projetos\DirectoryProject\DirectoryProject\bin\Debug\net6.0\DirectoryProject.exe
+C:\projetos\DirectoryProject\DirectoryProject\bin\Debug\net6.0\DirectoryProject.deps.json
+C:\projetos\DirectoryProject\DirectoryProject\bin\Debug\net6.0\DirectoryProject.runtimeconfig.json
+C:\projetos\DirectoryProject\DirectoryProject\bin\Debug\net6.0\DirectoryProject.dll
+C:\projetos\DirectoryProject\DirectoryProject\bin\Debug\net6.0\DirectoryProject.pdb
+C:\projetos\DirectoryProject\DirectoryProject\obj\Debug\net6.0\DirectoryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\DirectoryProject\DirectoryProject\obj\Debug\net6.0\DirectoryProject.AssemblyInfoInputs.cache
+C:\projetos\DirectoryProject\DirectoryProject\obj\Debug\net6.0\DirectoryProject.AssemblyInfo.cs
+C:\projetos\DirectoryProject\DirectoryProject\obj\Debug\net6.0\DirectoryProject.csproj.CoreCompileInputs.cache
+C:\projetos\DirectoryProject\DirectoryProject\obj\Debug\net6.0\DirectoryProject.dll
+C:\projetos\DirectoryProject\DirectoryProject\obj\Debug\net6.0\refint\DirectoryProject.dll
+C:\projetos\DirectoryProject\DirectoryProject\obj\Debug\net6.0\DirectoryProject.pdb
+C:\projetos\DirectoryProject\DirectoryProject\obj\Debug\net6.0\DirectoryProject.genruntimeconfig.cache
+C:\projetos\DirectoryProject\DirectoryProject\obj\Debug\net6.0\ref\DirectoryProject.dll

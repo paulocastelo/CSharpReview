@@ -1,0 +1,14 @@
+C:\projetos\ComparingHash\ComparingHash\ComparingHash\bin\Debug\net6.0\ComparingHash.exe
+C:\projetos\ComparingHash\ComparingHash\ComparingHash\bin\Debug\net6.0\ComparingHash.deps.json
+C:\projetos\ComparingHash\ComparingHash\ComparingHash\bin\Debug\net6.0\ComparingHash.runtimeconfig.json
+C:\projetos\ComparingHash\ComparingHash\ComparingHash\bin\Debug\net6.0\ComparingHash.dll
+C:\projetos\ComparingHash\ComparingHash\ComparingHash\bin\Debug\net6.0\ComparingHash.pdb
+C:\projetos\ComparingHash\ComparingHash\ComparingHash\obj\Debug\net6.0\ComparingHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ComparingHash\ComparingHash\ComparingHash\obj\Debug\net6.0\ComparingHash.AssemblyInfoInputs.cache
+C:\projetos\ComparingHash\ComparingHash\ComparingHash\obj\Debug\net6.0\ComparingHash.AssemblyInfo.cs
+C:\projetos\ComparingHash\ComparingHash\ComparingHash\obj\Debug\net6.0\ComparingHash.csproj.CoreCompileInputs.cache
+C:\projetos\ComparingHash\ComparingHash\ComparingHash\obj\Debug\net6.0\ComparingHash.dll
+C:\projetos\ComparingHash\ComparingHash\ComparingHash\obj\Debug\net6.0\refint\ComparingHash.dll
+C:\projetos\ComparingHash\ComparingHash\ComparingHash\obj\Debug\net6.0\ComparingHash.pdb
+C:\projetos\ComparingHash\ComparingHash\ComparingHash\obj\Debug\net6.0\ComparingHash.genruntimeconfig.cache
+C:\projetos\ComparingHash\ComparingHash\ComparingHash\obj\Debug\net6.0\ref\ComparingHash.dll

@@ -1,0 +1,7 @@
+
+public class programTest {
+    public static void main(String[] args) {
+        String text = "Olá, Lucas! Boa noite!"; // Estou criando variavel
+    	System.out.println(text); // imprimindo
+    }
+}

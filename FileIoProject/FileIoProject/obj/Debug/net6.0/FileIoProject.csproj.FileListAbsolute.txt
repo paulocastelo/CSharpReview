@@ -1,0 +1,14 @@
+C:\projetos\FileIoProject\FileIoProject\bin\Debug\net6.0\FileIoProject.exe
+C:\projetos\FileIoProject\FileIoProject\bin\Debug\net6.0\FileIoProject.deps.json
+C:\projetos\FileIoProject\FileIoProject\bin\Debug\net6.0\FileIoProject.runtimeconfig.json
+C:\projetos\FileIoProject\FileIoProject\bin\Debug\net6.0\FileIoProject.dll
+C:\projetos\FileIoProject\FileIoProject\bin\Debug\net6.0\FileIoProject.pdb
+C:\projetos\FileIoProject\FileIoProject\obj\Debug\net6.0\FileIoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\FileIoProject\FileIoProject\obj\Debug\net6.0\FileIoProject.AssemblyInfoInputs.cache
+C:\projetos\FileIoProject\FileIoProject\obj\Debug\net6.0\FileIoProject.AssemblyInfo.cs
+C:\projetos\FileIoProject\FileIoProject\obj\Debug\net6.0\FileIoProject.csproj.CoreCompileInputs.cache
+C:\projetos\FileIoProject\FileIoProject\obj\Debug\net6.0\FileIoProject.dll
+C:\projetos\FileIoProject\FileIoProject\obj\Debug\net6.0\refint\FileIoProject.dll
+C:\projetos\FileIoProject\FileIoProject\obj\Debug\net6.0\FileIoProject.pdb
+C:\projetos\FileIoProject\FileIoProject\obj\Debug\net6.0\FileIoProject.genruntimeconfig.cache
+C:\projetos\FileIoProject\FileIoProject\obj\Debug\net6.0\ref\FileIoProject.dll

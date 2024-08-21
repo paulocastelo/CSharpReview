@@ -1,0 +1,14 @@
+C:\projetos\StreamWriteProject\StreamWriteProject\bin\Debug\net6.0\StreamWriteProject.exe
+C:\projetos\StreamWriteProject\StreamWriteProject\bin\Debug\net6.0\StreamWriteProject.deps.json
+C:\projetos\StreamWriteProject\StreamWriteProject\bin\Debug\net6.0\StreamWriteProject.runtimeconfig.json
+C:\projetos\StreamWriteProject\StreamWriteProject\bin\Debug\net6.0\StreamWriteProject.dll
+C:\projetos\StreamWriteProject\StreamWriteProject\bin\Debug\net6.0\StreamWriteProject.pdb
+C:\projetos\StreamWriteProject\StreamWriteProject\obj\Debug\net6.0\StreamWriteProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\StreamWriteProject\StreamWriteProject\obj\Debug\net6.0\StreamWriteProject.AssemblyInfoInputs.cache
+C:\projetos\StreamWriteProject\StreamWriteProject\obj\Debug\net6.0\StreamWriteProject.AssemblyInfo.cs
+C:\projetos\StreamWriteProject\StreamWriteProject\obj\Debug\net6.0\StreamWriteProject.csproj.CoreCompileInputs.cache
+C:\projetos\StreamWriteProject\StreamWriteProject\obj\Debug\net6.0\StreamWriteProject.dll
+C:\projetos\StreamWriteProject\StreamWriteProject\obj\Debug\net6.0\refint\StreamWriteProject.dll
+C:\projetos\StreamWriteProject\StreamWriteProject\obj\Debug\net6.0\StreamWriteProject.pdb
+C:\projetos\StreamWriteProject\StreamWriteProject\obj\Debug\net6.0\StreamWriteProject.genruntimeconfig.cache
+C:\projetos\StreamWriteProject\StreamWriteProject\obj\Debug\net6.0\ref\StreamWriteProject.dll

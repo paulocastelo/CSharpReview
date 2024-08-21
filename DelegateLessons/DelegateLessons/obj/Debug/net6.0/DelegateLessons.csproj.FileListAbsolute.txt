@@ -1,0 +1,14 @@
+C:\projetos\DelegateLessons\DelegateLessons\bin\Debug\net6.0\DelegateLessons.exe
+C:\projetos\DelegateLessons\DelegateLessons\bin\Debug\net6.0\DelegateLessons.deps.json
+C:\projetos\DelegateLessons\DelegateLessons\bin\Debug\net6.0\DelegateLessons.runtimeconfig.json
+C:\projetos\DelegateLessons\DelegateLessons\bin\Debug\net6.0\DelegateLessons.dll
+C:\projetos\DelegateLessons\DelegateLessons\bin\Debug\net6.0\DelegateLessons.pdb
+C:\projetos\DelegateLessons\DelegateLessons\obj\Debug\net6.0\DelegateLessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\DelegateLessons\DelegateLessons\obj\Debug\net6.0\DelegateLessons.AssemblyInfoInputs.cache
+C:\projetos\DelegateLessons\DelegateLessons\obj\Debug\net6.0\DelegateLessons.AssemblyInfo.cs
+C:\projetos\DelegateLessons\DelegateLessons\obj\Debug\net6.0\DelegateLessons.csproj.CoreCompileInputs.cache
+C:\projetos\DelegateLessons\DelegateLessons\obj\Debug\net6.0\DelegateLessons.dll
+C:\projetos\DelegateLessons\DelegateLessons\obj\Debug\net6.0\refint\DelegateLessons.dll
+C:\projetos\DelegateLessons\DelegateLessons\obj\Debug\net6.0\DelegateLessons.pdb
+C:\projetos\DelegateLessons\DelegateLessons\obj\Debug\net6.0\DelegateLessons.genruntimeconfig.cache
+C:\projetos\DelegateLessons\DelegateLessons\obj\Debug\net6.0\ref\DelegateLessons.dll

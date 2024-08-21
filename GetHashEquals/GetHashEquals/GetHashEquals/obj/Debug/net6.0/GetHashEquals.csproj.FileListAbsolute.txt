@@ -1,0 +1,14 @@
+C:\projetos\GetHashEquals\GetHashEquals\GetHashEquals\bin\Debug\net6.0\GetHashEquals.exe
+C:\projetos\GetHashEquals\GetHashEquals\GetHashEquals\bin\Debug\net6.0\GetHashEquals.deps.json
+C:\projetos\GetHashEquals\GetHashEquals\GetHashEquals\bin\Debug\net6.0\GetHashEquals.runtimeconfig.json
+C:\projetos\GetHashEquals\GetHashEquals\GetHashEquals\bin\Debug\net6.0\GetHashEquals.dll
+C:\projetos\GetHashEquals\GetHashEquals\GetHashEquals\bin\Debug\net6.0\GetHashEquals.pdb
+C:\projetos\GetHashEquals\GetHashEquals\GetHashEquals\obj\Debug\net6.0\GetHashEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\GetHashEquals\GetHashEquals\GetHashEquals\obj\Debug\net6.0\GetHashEquals.AssemblyInfoInputs.cache
+C:\projetos\GetHashEquals\GetHashEquals\GetHashEquals\obj\Debug\net6.0\GetHashEquals.AssemblyInfo.cs
+C:\projetos\GetHashEquals\GetHashEquals\GetHashEquals\obj\Debug\net6.0\GetHashEquals.csproj.CoreCompileInputs.cache
+C:\projetos\GetHashEquals\GetHashEquals\GetHashEquals\obj\Debug\net6.0\GetHashEquals.dll
+C:\projetos\GetHashEquals\GetHashEquals\GetHashEquals\obj\Debug\net6.0\refint\GetHashEquals.dll
+C:\projetos\GetHashEquals\GetHashEquals\GetHashEquals\obj\Debug\net6.0\GetHashEquals.pdb
+C:\projetos\GetHashEquals\GetHashEquals\GetHashEquals\obj\Debug\net6.0\GetHashEquals.genruntimeconfig.cache
+C:\projetos\GetHashEquals\GetHashEquals\GetHashEquals\obj\Debug\net6.0\ref\GetHashEquals.dll
