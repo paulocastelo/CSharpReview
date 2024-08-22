@@ -10,25 +10,16 @@ namespace RelationalAlgebraFixationExercises.Entities {
 
         public int Id { get; private set; }
         public string Name { get; set; }
+        public string Email { get; set; }
         public double Salary { get; set; }
 
-        public Employee() {
-            Id = nextId++;
-        }
+        public Employee() {}
 
-        public Employee(string name, double salary) {
+        public Employee(string name, string email, double salary) {
             Id = nextId++;
             Name = name;
+            Email = email;
             Salary = salary;
-        }
-
-        public Employee(int id, string name, double salary) {
-            Id = id;
-            Name = name;
-            Salary = salary;
-            if (id >= nextId) {
-                nextId = id + 1;
-            }
         }
 
         public override string ToString() {

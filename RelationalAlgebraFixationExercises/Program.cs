@@ -15,8 +15,9 @@ namespace RelationalAlgebraFixationExercises {
                     while (!sr.EndOfStream) {
                         string[] fields = sr.ReadLine().Split(',');
                         string name = fields[0];
-                        double salary = double.Parse(fields[1]);
-                        employees.Add(new Employee(name, salary));
+                        string email = fields[1];
+                        double salary = double.Parse(fields[2], CultureInfo.InvariantCulture);
+                        employees.Add(new Employee(name, email, salary));
                     }
                 }
 
@@ -28,7 +29,8 @@ namespace RelationalAlgebraFixationExercises {
                 var avg2 = (from p in employees
                             where p.Salary > 2000.0
                             select p.Salary).DefaultIfEmpty(0.0).Average();
-                Console.WriteLine(avg2.ToString("F2", CultureInfo.InvariantCulture));
+                Console.WriteLine("Average of employees whose salary is greater than 2000.0: "
+                        + avg2.ToString("F2", CultureInfo.InvariantCulture));
 
                 // Get names of employees whose salary is greater than average
                 var names = employees.Where(e => e.Salary > avg).OrderBy(e => e.Name).Select(e => e.Name);
